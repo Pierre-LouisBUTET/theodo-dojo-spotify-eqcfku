@@ -10,7 +10,8 @@ const App = () => {
       </header>
       <div className="App-images">
         <p>Il va falloir modifier le code pour faire un vrai blind test !
-          Et j'ajoute cette ligne!
+      
+          dcscd
         </p>
       </div>
       <div className="App-buttons"></div>
